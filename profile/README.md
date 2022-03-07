@@ -7,7 +7,7 @@
 よいはと鯖ライフを！！！！！！！ Discordではリアルタイムにサーバーの情報を配信したり、最新情報をいち早くゲットできたり、ほかのプレイヤーと交流したりできます。
 
 <p align="center">
-<a href="#" target="_blank"><img src="https://crafatar.com/avatars/9cd931f107f9490ca64e27b6e5644ae8?overlay=true9cd931f107f9490ca64e27b6e5644ae8" height="50" ></a>
+<a href="#" target="_blank"><img src="https://crafatar.com/avatars/6b80409a32964d6e8614da041c5ec185?overlay=true6b80409a32964d6e8614da041c5ec185" height="50" ></a>
 <a href="#" target="_blank"><img src="https://crafatar.com/avatars/e98ec65ea77b40ceb46ba6e9e22f6fd6?overlay=truee98ec65ea77b40ceb46ba6e9e22f6fd6" height="50" ></a>
 <a href="#" target="_blank"><img src="https://crafatar.com/avatars/4d18bbdf19c34efe9524133e1c11dd09?overlay=true" height="50" ></a>
 </p>
